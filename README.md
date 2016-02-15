@@ -15,3 +15,5 @@ QB64: http://www.qb64.net/
 ###Screenshots
 ![Alt text](http://img.marcthibeault.com/misc/antsqb64-1.png "Optional title")
 ![Alt text](http://img.marcthibeault.com/misc/antsqb64-2.png "Optional title")
+
+[GitHub Page](http://marcthibeault.github.io/Langtons-Ants-QB64)
